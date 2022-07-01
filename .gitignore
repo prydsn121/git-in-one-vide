@@ -1,1 +1,4 @@
-mylogs.logs
+/mylogs.logs
+*.cpp
+*.logs
+ignore/
